@@ -13,7 +13,7 @@
 ## 任务
 
 ##   01 hello walrus
-- [] Walrus cli version:walrus 1.6.3-9cbc0e4e5055
-- [] 网站package id:0x31cdec4be399a185d53acf01f00c519c754283b831a6871c1e49dc48386cc79a
-- [] 测试网NS名称: dyingforge
-- [] 发布网站地址: https://dyingforge.walrus.site
+- [x] Walrus cli version:walrus 1.6.3-9cbc0e4e5055
+- [x] 网站package id:0x31cdec4be399a185d53acf01f00c519c754283b831a6871c1e49dc48386cc79a
+- [x] 测试网NS名称: dyingforge
+- [x] 发布网站地址: https://dyingforge.walrus.site
