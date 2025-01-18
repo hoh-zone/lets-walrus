@@ -16,7 +16,7 @@
 
 ## 01 hello walrus
 
-- [x] Walrus cli version: walrus 1.8.1-d1efbbcfc5d0
-- [x] 网站 package id: 0x93803ae9443cbe400a3b9d4666dfd0019b3c629c507dc79d3085154ac21495b4
+- [x] Walrus cli version: walrus 1.9.5-7c541a49119c
+- [x] 网站 package id: 0x6bf1b8f97522ddd2e793a9029ddcd2693bbe59825787692c52dcc25c014b0b15
 - [x] 测试网 NS 名称: syl
 - [x] 发布网站地址: https://syl.walrus.site/
