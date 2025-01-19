@@ -4,7 +4,7 @@
 - github: `jethrozz`
 
 ## 个人简介
-- 工作经验: x年
+- 工作经验: 5年
 - 技术栈: `Java` `sui move` `react`
 > 重要提示 请认真写自己的简介
 - 多年web2开发经验，对Move特别感兴趣，想通过Move入门区块链
